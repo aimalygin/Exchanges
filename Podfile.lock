@@ -1,0 +1,61 @@
+PODS:
+  - Alamofire (5.5.0)
+  - CSV.swift (2.4.3)
+  - Differentiator (5.0.0)
+  - Nuke (9.5.0)
+  - PinLayout (1.10.2)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxDataSources (5.0.0):
+    - Differentiator (~> 5.0)
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxNuke (2.0.1):
+    - Nuke (~> 9.0)
+    - RxSwift (~> 6.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - Swinject (2.8.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - CSV.swift
+  - PinLayout
+  - RxCocoa
+  - RxDataSources
+  - RxNuke
+  - RxSwift
+  - Swinject
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CSV.swift
+    - Differentiator
+    - Nuke
+    - PinLayout
+    - RxCocoa
+    - RxDataSources
+    - RxNuke
+    - RxRelay
+    - RxSwift
+    - Swinject
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  CSV.swift: d38741b349c067b4a6db42237cb0e2974d21ccac
+  Differentiator: e8497ceab83c1b10ca233716d547b9af21b9344d
+  Nuke: 6f400a4ea957e09149ec335a3c6acdcc814d89e4
+  PinLayout: d6b1960e4b182b4da1481b9aa6728f621e20708d
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxDataSources: aa47cc1ed6c500fa0dfecac5c979b723542d79cf
+  RxNuke: 23175fb4b7cda4e3aa453588d895198ccf88f5ab
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  Swinject: 97112918bd7e0785dc2df7036213f3c8cbba6586
+
+PODFILE CHECKSUM: 19c799f89c0f2f0c80103e884aef9db939b19c52
+
+COCOAPODS: 1.11.2
